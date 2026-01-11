@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Basics/Basics.vcxproj" />
+  <Project Path="LoopsNew/LoopsNew.vcxproj" />
+  <Project Path="Operations/Operations.vcxproj" />
+  <Project Path="SalanetsOAiPPO/SalanetsOAiPPO.vcxproj" />
+</Solution>
